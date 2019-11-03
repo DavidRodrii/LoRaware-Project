@@ -28,7 +28,10 @@ Assembly of Snap-Fit Enclosure Shells
 
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/term.jpg" alt="Debugging LoRaware Device" />
 
-<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/Testing2-2.jpg" alt="LoRaware Device Power Measurements" />
+
+Biometric Monitoring
+
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/GFNA.png" alt="Monitoring Biometrics" />
 
 Signal-to-Noise Ratio of Received LoRaWAN Packets
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/LoRa_SNR.png" alt="SNR" />
@@ -40,6 +43,9 @@ Signal-to-Noise Ratio of Received LoRaWAN Packets
 
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/LW-Circuit-POC.jpg" alt="LOL" />
 
+
+
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/Testing2-2.jpg" alt="LoRaware Device Power Measurements" />
 
 
 
