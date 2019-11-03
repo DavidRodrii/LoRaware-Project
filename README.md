@@ -1,13 +1,13 @@
 
-<img src="https://github.com/DavidRodrii/LoRaware-Project/tree/master/imgs/Logo%20Stuff/LoRaware-Logo2.png">
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Logo%20Stuff/LoRaware-Logo2.png" alt="The LoRaware Project" />
 
 
 
 ## LoRaware Wireless Device Enclosure Assembly
 
-Devices consist of three separate 3D printed snap-fit parts
+LoRaware Wireless Devices consist of three separate 3D printed snap-fit enclosure shells
 
-<img src="https://github.com/DavidRodrii/LoRaware-Project/tree/master/imgs/AssemGIF_v1.gif">
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/AssemGIF_v1.gif" alt="Enclosure Assembly" />
 
 
 
