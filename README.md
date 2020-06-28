@@ -17,14 +17,14 @@ The sensor sets are portable and wrist-wearable and include sensors for biometri
 
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/LWbuddies.jpg" alt="Hmmmm..." />
 
+<!--
+Cutaway View
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/lware-cutaway1.png" alt="Cutaway View" />
+-->
+
+
+Rendering of Full Assembly
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/LW-Enc-TopDown.png" alt="Fully Assembly, wit da Top Down" />
-
-
-
-
-
-
-
 
 
 
@@ -41,11 +41,22 @@ Biometric Monitoring
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/LoRa_SNR.png" alt="SNR" />
 -->
 
+MQTT Data Flow Management topology in Node-Red
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/lware-dFlow.png" alt="Flow Control" />
+
+LoRaware Automated Notification System with Pushsafer API
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/lware-notify.png" alt="Notify System" />
 
 
 ### Development
 
 <img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/Testing&Assembly/LW-Circuit-POC.jpg" alt="LOL" />
+
+LoRaware Prototype Schematic
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/lware-schem.png" alt="LW Prototype Schematic" />
+
+LoRaware PCB Assembly Concept
+<img src="https://raw.githubusercontent.com/DavidRodrii/LoRaware-Project/master/imgs/lware-PCBassem.png" alt="PCB Concept" />
 
 
 
